@@ -1,7 +1,7 @@
 # Mastering GitHub: From Basics to Interview-Ready
 
 <div align="center">
-  <img src="./Assets/2.png" alt="GitHub Logo" />
+  <img src="./Assets/2.png" alt="GitHub Logo" width="250" height="250" />
 </div>
 
 In today's software development landscape, version control systems like Git and collaboration platforms like GitHub are essential skills for any programmer. GitHub, built around Git, is not only a hub for hosting repositories but also a crucial tool for teamwork and open-source contribution. This article will guide you from the fundamentals of GitHub to interview-ready expertise, covering common interview questions related to GitHub.
@@ -19,7 +19,7 @@ To get started with GitHub, create a free account on the [GitHub website](https:
 ### 3. Git vs. GitHub: What's the Difference?
 
 <div align="center">
-  <img src="./Assets/1.png" alt="GitHub vs Git" />
+  <img src="./Assets/1.jpg" alt="GitHub vs Git" width="80%" height="30%" />
 </div>
 
 #### Git - The Tool for Tracking Changes
