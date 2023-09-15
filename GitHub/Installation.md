@@ -4,6 +4,8 @@
 
 ### Windows 🪟
 
+![Windows](./Assets/Windows.png)
+
 1. Visit the official Git website for Windows: [Click Here](https://gitforwindows.org/)
 
 2. 📥 Download the latest version of Git for Windows by clicking the "Download" button.
@@ -26,6 +28,8 @@
 
 ### macOS 🍏
 
+![macOS](./Assets/macOs.png)
+
 1. On macOS, you can install Git using the built-in package manager, Homebrew. If you don't have Homebrew installed, you can install it by following the instructions on the Homebrew [website](https://brew.sh/.)
 
 2. Once Homebrew is installed, open the Terminal.
@@ -45,6 +49,8 @@
 
 #### Linux (Redhat/Fedora) 🐧
 
+![RedHat](./Assets/RedHat.png)
+
 1. Open a terminal.
 
 2. Install Git using the package manager:
@@ -61,6 +67,8 @@
    ```
 
 ### Linux (Debian/Ubuntu) 🐧
+
+![Ubuntu](./Assets/Ununtu.png)
 
 1. Open a terminal.
 
