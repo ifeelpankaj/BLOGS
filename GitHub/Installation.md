@@ -2,6 +2,7 @@
 
 ## Installation
 
+![Installation](./Assets/GitInstallation.jpg)
 ### Windows 🪟
 
 ![Windows](./Assets/Windows.png)
