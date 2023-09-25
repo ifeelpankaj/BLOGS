@@ -35,8 +35,18 @@
 - Creating and switching branches.
 **[{what is it },{why use it}{understanding git head}{git branch}{git switch}{git checkout}{deleting and renaming branches}{head and ref behind the sceen}{masTer vs main branch}]**
 
-###  Merging branches.
+- Merging branches.
 **[{fastForward merge}{git merge and merge commit}{Resolving merge conflicts}{using vs code to reslove conflict}]**
+
+## Comparing Changes with Git Diff
+
+- Reading Diff
+- Git Diff basics
+- Diff branches
+- Diffing Commits
+- Diffing specific files
+- Git diff --staged
+
 
 ## Remote Repositories
 
@@ -50,17 +60,13 @@
 - Collaborating with others using Git.
 - Pull requests.
 - Forking and upstream repositories.
-- Resolving merge conflicts.
 
-## Git Configuration
-
-- Setting user name and email.
-- Configuring Git options.
 
 ## Gitignore
 
 - Creating a `.gitignore` file to specify files and directories to ignore.
 - `git commit --amend`
+
 ## Tags and Releases
 
 - Tagging specific commits for releases.
