@@ -50,7 +50,6 @@
 
 ## Remote Repositories
 
-- Adding remote repositories.
 - Pushing changes to remote repositories.
 - Pulling changes from remote repositories.
 - Fetching vs. pulling.
@@ -76,6 +75,7 @@
 
 - Stashing changes for later.
 - Applying stashed changes.
+**{Git stash Basic, Git stash save , git stash pop}**
 
 ## Git Branching Strategies
 
