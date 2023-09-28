@@ -1,6 +1,3 @@
-
-
-
 # Git-Stashing: Managing Your Work-in-Progress
 
 🚀📦
