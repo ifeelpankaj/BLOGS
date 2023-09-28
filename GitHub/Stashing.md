@@ -46,7 +46,7 @@
 
    
 
-    ![Stashing Example](./Assets/s3.png)
+    ![Stashing Example](./Assets/s3.PNG)
 
 *Behold, your changes are stashed away, and your working directory is pure and pristine, ready for your journey to the `master` branch.*
 
@@ -59,7 +59,7 @@ Now, with a clean slate, you gracefully switch to the `master` branch, ready to 
     ```bash
     git stash save "Feature XYZ in progress"
     ```
-    ![Stashing Example](./Assets/s4.png)
+    ![Stashing Example](./Assets/s4.PNG)
 
 *This allows you to attach a meaningful message to your stash, making it easier to identify its purpose when you have multiple stashes.*
 
@@ -74,7 +74,7 @@ Now, with a clean slate, you gracefully switch to the `master` branch, ready to 
     ```bash
     git stash pop
     ```
-    ![Stashing Example](./Assets/s7.png)
+    ![Stashing Example](./Assets/s7.PNG)
 
 *This is perfect when you're absolutely sure you won't need that stash again.*
 
@@ -99,7 +99,7 @@ Now, with a clean slate, you gracefully switch to the `master` branch, ready to 
     ```bash
     git stash list
     ```
-    ![Stashing Example](./Assets/s5.png)
+    ![Stashing Example](./Assets/s5.PNG)
 
 *This command showcases your stashes, each with a unique identifier (e.g., `stash@{0}`, `stash@{1}`).*
 
@@ -110,7 +110,7 @@ Now, with a clean slate, you gracefully switch to the `master` branch, ready to 
     ```bash
     git stash apply stash@{1}
     ```
-    ![Stashing Example](./Assets/s6.png)
+    ![Stashing Example](./Assets/s6.PNG)
 
 *This summons the stash at the specified index from your stash stack.*
 
@@ -121,7 +121,7 @@ Now, with a clean slate, you gracefully switch to the `master` branch, ready to 
     ```bash
     git stash drop stash@{2}
     ```
-    ![Stashing Example](./Assets/s8.png)
+    ![Stashing Example](./Assets/s8.PNG)
 
 *This gracefully removes the stash at the indicated index.*
 
@@ -134,7 +134,7 @@ Now, with a clean slate, you gracefully switch to the `master` branch, ready to 
     ```bash
     git stash clear
     ```
-    ![Stashing Example](./Assets/s9.png)
+    ![Stashing Example](./Assets/s9.PNG)
 
 This action is irreversible, so use it with caution.
 
