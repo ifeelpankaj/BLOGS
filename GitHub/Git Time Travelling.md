@@ -162,6 +162,3 @@ This will create a new commit that undoes the changes introduced by `xyz5678` wh
 🌟 Git's time-traveling capabilities, powered by commands like `checkout`, `git restore`, `git reset`, and `git revert`, empower you to navigate your repository's history with confidence. Whether you need to explore past commits, undo changes, or create new branches, Git has you covered. So, embrace the power of version control and become a Git time traveler in your software development journey!
 
 🚀 Happy coding and exploring your code's history! 🕰️
-```
-
-This article explains checking out commits, escaping a detached head, discarding changes with `checkout`, using `git restore`, `git reset`, and `git revert` with examples and emojis for a more engaging read.
