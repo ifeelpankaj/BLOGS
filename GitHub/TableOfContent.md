@@ -47,12 +47,26 @@
 - Diffing specific files
 - Git diff --staged
 
+## Stashing
+
+- Stashing changes for later.
+- Applying stashed changes.
+**{Git stash Basic, Git stash save , git stash pop}**
+
+## Git Time Travelling
+- checking out commit 
+- Escaping our detached head
+- Discarding change with check out
+- Git restore
+- git reset
+- git revert
 
 ## Remote Repositories
 
-- Pushing changes to remote repositories.
+- Fetching changes to remote repositories.
 - Pulling changes from remote repositories.
 - Fetching vs. pulling.
+**{Git Fetch, Git pull, }**
 
 ## Collaboration
 
@@ -71,11 +85,7 @@
 - Tagging specific commits for releases.
 - Creating and managing releases.
 
-## Stashing
 
-- Stashing changes for later.
-- Applying stashed changes.
-**{Git stash Basic, Git stash save , git stash pop}**
 
 ## Git Branching Strategies
 
