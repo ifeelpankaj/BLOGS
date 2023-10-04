@@ -78,7 +78,6 @@
 ## Gitignore
 
 - Creating a `.gitignore` file to specify files and directories to ignore.
-- `git commit --amend`
 
 ## Tags and Releases
 
