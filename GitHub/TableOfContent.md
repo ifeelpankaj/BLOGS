@@ -68,11 +68,24 @@
 - Fetching vs. pulling.
 **{Git Fetch, Git pull, }**
 
+## GitHub Grab Bag
+
+- Repo visibility (Public  vs Private)
+- README.md files
+- Github Gists
+- GitHub Pages
+
+
 ## Collaboration
 
+
+- Feature branching.
+- Adding Github Collaborator
 - Collaborating with others using Git.
 - Pull requests.
 - Forking and upstream repositories.
+
+*{Problem with working on a single branch,feature branch workflow,pull requests,brnach protection rule,forking,fork and clone workflow}*
 
 
 ## Gitignore
@@ -88,7 +101,6 @@
 
 ## Git Branching Strategies
 
-- Feature branching.
 - Gitflow workflow.
 - GitHub Flow.
 
