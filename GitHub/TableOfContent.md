@@ -68,14 +68,6 @@
 - Fetching vs. pulling.
 **{Git Fetch, Git pull, }**
 
-## GitHub Grab Bag
-
-- Repo visibility (Public  vs Private)
-- README.md files
-- Github Gists
-- GitHub Pages
-
-
 ## Collaboration
 
 
@@ -88,83 +80,21 @@
 *{Problem with working on a single branch,feature branch workflow,pull requests,brnach protection rule,forking,fork and clone workflow}*
 
 
-## Gitignore
+## Gitignore, Tags and Releases
 
 - Creating a `.gitignore` file to specify files and directories to ignore.
-
-## Tags and Releases
-
 - Tagging specific commits for releases.
 - Creating and managing releases.
 
-
-
-## Git Branching Strategies
-
-- Gitflow workflow.
-- GitHub Flow.
 
 ## Rebase and Amend
 
 - `git rebase`: Reapply commits on top of another branch.
 - `git commit --amend`: Edit the last commit.
 
-## Git Hooks
+## GitHub Grab Bag
 
-- Pre-commit and post-commit hooks.
-- Customizing Git behavior.
-
-## Git Cherry-Pick
-
-- Selectively apply specific commits.
-
-## Git Submodules
-
-- Working with submodules for managing dependencies.
-
-## Git GUIs and Tools
-
-- Git graphical user interfaces (GUIs).
-- Useful Git tools and extensions.
-
-## Advanced Topics (Optional)
-
-- Git bisect for finding bugs.
-- Git rebase interactive.
-- Git stash with options.
-- Git reflog.
-
-## Best Practices and Tips
-
-- Commit messages best practices.
-- Keeping commits small and focused.
-- Using branching effectively.
-- Regularly pulling and updating from remote.
-
-## Git Hosting Services
-
-- GitHub, GitLab, Bitbucket, etc.
-- Utilizing their features for collaboration.
-
-## Git Security
-
-- Securing your Git repository.
-- Handling sensitive information.
-
-## Troubleshooting
-
-- Common Git problems and how to resolve them.
-
-## Git Documentation
-
-- Learning how to use Git's built-in help system.
-
-## Git Terminology
-
-- Understanding Git terminology and concepts like HEAD, index, and origin.
-
-## Version Control Strategies
-
-- Strategies for effective version control in projects.
-
-Remember that learning Git is an ongoing process, and the best way to learn is by practicing and working on real projects. Start with the basics and gradually explore more advanced topics as you become more comfortable with the fundamentals.
+- Repo visibility (Public  vs Private)
+- README.md files
+- Github Gists
+- GitHub Pages
